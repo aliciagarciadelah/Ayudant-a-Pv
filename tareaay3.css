@@ -1,0 +1,21 @@
+#cabecera{
+    color:cornflowerblue; font-weight: bold; font-family: Verdana
+}
+
+#links{
+    color:darkgrey; font-family: Verdana; font-style: italic
+}
+
+.texto{
+    color:black; font-family: Verdana; font-size:12px; padding:2px
+}
+
+
+
+#foto1{
+    width: 40px; margin:20px; padding:20px; float:left; border-style: dashed
+} 
+
+#foto2{
+    width: 40px; margin:20px; padding:20px; background-color:lightblue
+}
